@@ -139,9 +139,3 @@ function handleFormSubmit(event) {
 }
 
 saveButton.on("click", handleFormSubmit);
-
-
-
-
-
-
